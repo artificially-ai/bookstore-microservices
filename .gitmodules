@@ -1,36 +1,36 @@
 [submodule "eureka-service"]
 	path = eureka-service
-	url = git@github.com:ekholabs/eureka-service.git
+	url = https://github.com/ekholabs/eureka-service.git
 	branch = master
 [submodule "hystrix-dashboard"]
 	path = hystrix-dashboard
-	url = git@github.com:ekholabs/hystrix-dashboard.git
+	url = https://github.com/ekholabs/hystrix-dashboard.git
 	branch = master
 [submodule "turbine"]
 	path = turbine
-	url = git@github.com:ekholabs/turbine.git
+	url = https://github.com/ekholabs/turbine.git
 	branch = master
 [submodule "zipkin-service"]
 	path = zipkin-service
-	url = git@github.com:ekholabs/zipkin-service.git
+	url = https://github.com/ekholabs/zipkin-service.git
 	branch = master
 [submodule "bookstore-domain"]
 	path = bookstore-domain
-	url = git@github.com:ekholabs/bookstore-domain.git
+	url = https://github.com/ekholabs/bookstore-domain.git
 	branch = master
 [submodule "configuration"]
 	path = configuration
-	url = git@github.com:ekholabs/configuration.git
+	url = https://github.com/ekholabs/configuration.git
 	branch = master
 [submodule "bookstore-service"]
 	path = bookstore-service
-	url = git@github.com:ekholabs/bookstore-service.git
+	url = https://github.com/ekholabs/bookstore-service.git
 	branch = master
 [submodule "microservices-config"]
 	path = microservices-config
-	url = git@github.com:ekholabs/microservices-config.git
+	url = https://github.com/ekholabs/microservices-config.git
 	branch = master
 [submodule "bookstore-client"]
 	path = bookstore-client
-	url = git@github.com:ekholabs/bookstore-client.git
+	url = https://github.com/ekholabs/bookstore-client.git
 	branch = master
